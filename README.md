@@ -19,3 +19,10 @@ Danh sách Test Cases
 - Nếu database throw exception → db_error.
 5. Kiểm tra trường hợp ngoại lệ
 - Nếu getOrdersByUser throw exception, phải trả về false.
+
+
+EVD:
+![Image 03-04-2025 at 21 46](https://github.com/user-attachments/assets/7a1352d8-f6d1-4dbc-8aeb-49ae129dbab0)
+
+![Image 03-04-2025 at 21 48](https://github.com/user-attachments/assets/de8cadb1-6f72-4cb9-a002-4e9114a638ac)
+
